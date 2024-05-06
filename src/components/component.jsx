@@ -36,11 +36,6 @@ export function Component() {
           <Link
             className="text-sm font-medium hover:underline underline-offset-4"
             href="#">
-            Pricing
-          </Link>
-          <Link
-            className="text-sm font-medium hover:underline underline-offset-4"
-            href="#">
             About
           </Link>
           <Link
